@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Set stiker">
+  <rect width="400" height="400" fill="#FAF8FD"/>
+  <g stroke="#FAF8FD" stroke-width="10" stroke-linejoin="round">
+    <circle cx="140" cy="150" r="70" fill="#7651A8"/>
+    <rect x="200" y="170" width="140" height="140" rx="28" fill="#F2B8D5" transform="rotate(8 270 240)"/>
+    <path d="M120 250l50 20-20 52-50-20z" fill="#DCCCF5" transform="rotate(-10 130 280)"/>
+  </g>
+  <circle cx="140" cy="150" r="70" fill="none" stroke="#DCCCF5" stroke-width="3" stroke-dasharray="6 8"/>
+  <circle cx="118" cy="142" r="8" fill="#FAF8FD"/><circle cx="162" cy="142" r="8" fill="#FAF8FD"/>
+  <path d="M120 168q20 18 40 0" fill="none" stroke="#FAF8FD" stroke-width="7" stroke-linecap="round"/>
+  <path d="M270 215l10 22 24 3-18 16 5 24-21-12-21 12 5-24-18-16 24-3z" fill="#241638" transform="rotate(8 270 240)"/>
+</svg>

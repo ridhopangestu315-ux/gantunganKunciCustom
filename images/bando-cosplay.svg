@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Bando telinga kucing cosplay">
+  <rect width="400" height="400" fill="#241638"/>
+  <path d="M70 300q130-170 260 0" fill="none" stroke="#DCCCF5" stroke-width="16" stroke-linecap="round"/>
+  <path d="M96 238l-6-110 78 62z" fill="#7651A8" stroke="#DCCCF5" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M304 238l6-110-78 62z" fill="#7651A8" stroke="#DCCCF5" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M110 214l-3-58 42 34z" fill="#F2B8D5"/>
+  <path d="M290 214l3-58-42 34z" fill="#F2B8D5"/>
+  <circle cx="200" cy="262" r="10" fill="#F2B8D5"/>
+</svg>

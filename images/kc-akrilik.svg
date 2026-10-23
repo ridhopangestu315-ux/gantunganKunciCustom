@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Gantungan kunci akrilik">
+  <rect width="400" height="400" fill="#DCCCF5"/>
+  <circle cx="200" cy="70" r="30" fill="none" stroke="#241638" stroke-width="8"/>
+  <path d="M200 100v40" stroke="#241638" stroke-width="8"/>
+  <rect x="110" y="140" width="180" height="210" rx="34" fill="#FAF8FD" stroke="#7651A8" stroke-width="8"/>
+  <circle cx="200" cy="225" r="52" fill="#F2B8D5"/>
+  <circle cx="182" cy="218" r="7" fill="#241638"/><circle cx="218" cy="218" r="7" fill="#241638"/>
+  <path d="M184 240q16 14 32 0" fill="none" stroke="#241638" stroke-width="6" stroke-linecap="round"/>
+  <path d="M150 190l-14-34 38 18zM250 190l14-34-38 18z" fill="#7651A8"/>
+  <path d="M135 320h130" stroke="#DCCCF5" stroke-width="8" stroke-linecap="round"/>
+</svg>

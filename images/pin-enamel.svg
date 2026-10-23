@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Pin enamel">
+  <rect width="400" height="400" fill="#F2B8D5"/>
+  <path d="M200 70l36 74 82 12-60 56 15 82-73-40-73 40 15-82-60-56 82-12z" fill="#7651A8" stroke="#241638" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M200 112l22 46 50 8-36 34 9 50-45-24-45 24 9-50-36-34 50-8z" fill="#FAF8FD"/>
+  <circle cx="200" cy="196" r="16" fill="#F2B8D5"/>
+  <path d="M150 340h100" stroke="#241638" stroke-width="8" stroke-linecap="round"/>
+</svg>
